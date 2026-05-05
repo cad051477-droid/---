@@ -1,0 +1,55 @@
+{
+  "offlineMessages": {},
+  "ui": {
+    "groupExpandedState": {},
+    "groupManagementExpandedState": {},
+    "togetherListen": {
+      "active": false,
+      "contactId": "",
+      "contactName": "",
+      "contactAvatar": "",
+      "desktopAvatar": ""
+    }
+  },
+  "moments": {
+    "user": {
+      "name": "顾逸",
+      "avatar": "__SYNC_IMAGE_REF__:data/apps/system/images/__user__default_user/chatAppData_moments_user_avatar.jpg"
+    },
+    "posts": [
+      {
+        "id": "mmrkmzog1bm2sood4gs",
+        "user": {
+          "name": "__moments_char__:system",
+          "avatar": "系统头像.jpg",
+          "charId": "system"
+        },
+        "content": "……根据规则第3条，玩家提问需消耗1点探索值。（检测到探索值归零）本次回答免费。目的地：水母游戏·新手引导副本。祝您好运，顾逸。",
+        "images": [
+          "https://picsum.photos/300/300?random=432"
+        ],
+        "time": "3月15日",
+        "timestamp": 1773568073249,
+        "likes": [
+          "阿光",
+          "夜枭",
+          "白夜",
+          "零",
+          "墨影",
+          "星尘"
+        ],
+        "comments": [
+          {
+            "user": "夜枭",
+            "content": "新人？看起来挺有意思的。"
+          },
+          {
+            "user": "零",
+            "content": "系统难得这么耐心，真是罕见。"
+          }
+        ]
+      }
+    ]
+  },
+  "scopedOwnerUserId": "default_user"
+}

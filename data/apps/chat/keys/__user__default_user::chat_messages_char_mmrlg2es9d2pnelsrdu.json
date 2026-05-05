@@ -1,0 +1,509 @@
+[
+  {
+    "id": "mmrlsfxa9v66avxat3v",
+    "text": "你找我做什么？不是走的很干脆吗？舍得找我了？",
+    "sender": "them",
+    "timestamp": 1773570007198
+  },
+  {
+    "id": "mmrrx7cid2048hzk028",
+    "text": "想你了",
+    "sender": "me",
+    "timestamp": 1773580307058,
+    "quote": null
+  },
+  {
+    "id": "mmrryzswbu8zamlrtvn",
+    "turnId": "turn_mmrryzswwls31xqcqd",
+    "text": "隔了三个小时才回我",
+    "sender": "them",
+    "timestamp": 1773580390592,
+    "voiceData": {
+      "status": "坐在沙发上死死盯着手机屏幕，眼眶有些发红",
+      "inner": "骗子，大骗子……既然想我当初为什么要走",
+      "favorability": "98%",
+      "trueFeeling": "我也想你",
+      "tokens": null,
+      "apiTaken": null
+    }
+  },
+  {
+    "id": "mmrrz0ilus572dj3wwg",
+    "turnId": "turn_mmrryzswwls31xqcqd",
+    "text": "这就是你想我的态度吗",
+    "sender": "them",
+    "timestamp": 1773580391518
+  },
+  {
+    "id": "mmrrz157lryqd5jw9yk",
+    "turnId": "turn_mmrryzswwls31xqcqd",
+    "text": "少拿这种话来骗我",
+    "sender": "them",
+    "timestamp": 1773580392333
+  },
+  {
+    "id": "mmrrz1rtglrfyghplyd",
+    "turnId": "turn_mmrryzswwls31xqcqd",
+    "text": "我才不吃你这一套😒",
+    "sender": "them",
+    "timestamp": 1773580393148
+  },
+  {
+    "id": "mmrrz2f1wev72uf1q6k",
+    "turnId": "turn_mmrryzswwls31xqcqd",
+    "text": "三年了，顾逸",
+    "sender": "them",
+    "timestamp": 1773580393985
+  },
+  {
+    "id": "mmrrz325f92xt4yrfe",
+    "turnId": "turn_mmrryzswwls31xqcqd",
+    "text": "你觉得一句想我就能打发我吗",
+    "sender": "them",
+    "timestamp": 1773580394818
+  },
+  {
+    "id": "mmrs00w8bumf0fg62kj",
+    "text": "那怎么样亲爱的才会消气🥺",
+    "sender": "me",
+    "timestamp": 1773580438664,
+    "quote": null
+  },
+  {
+    "id": "mmrs0pntqt2vg90y9la",
+    "turnId": "turn_mmrs0pntxcusipns73l",
+    "text": "谁是你亲爱的！",
+    "sender": "them",
+    "timestamp": 1773580470761,
+    "voiceData": {
+      "status": "坐在沙发上，看着屏幕上的称呼耳根发烫",
+      "inner": "这个老狐狸，一回来就知道怎么拿捏我...",
+      "favorability": "99%",
+      "trueFeeling": "其实你回来就好",
+      "tokens": null,
+      "apiTaken": null
+    }
+  },
+  {
+    "id": "mmrs0qe9ubcwijcc20m",
+    "turnId": "turn_mmrs0pntxcusipns73l",
+    "text": "顾逸你少给我套近乎",
+    "sender": "them",
+    "timestamp": 1773580471714
+  },
+  {
+    "id": "mmrs0r0vbl5zzmavt2",
+    "turnId": "turn_mmrs0pntxcusipns73l",
+    "text": "别以为随便撒个娇我就会原谅你",
+    "sender": "them",
+    "timestamp": 1773580472529
+  },
+  {
+    "id": "mmrs0ro23wkymb9896r",
+    "turnId": "turn_mmrs0pntxcusipns73l",
+    "text": "除非...",
+    "sender": "them",
+    "timestamp": 1773580473365
+  },
+  {
+    "id": "mmrs0sbark50sst5v2h",
+    "turnId": "turn_mmrs0pntxcusipns73l",
+    "text": "你给我买城南那家的草莓慕斯",
+    "sender": "them",
+    "timestamp": 1773580474202
+  },
+  {
+    "id": "mmrs0syd2057jh1sv7u",
+    "turnId": "turn_mmrs0pntxcusipns73l",
+    "text": "要三个！不对，要五个！",
+    "sender": "them",
+    "timestamp": 1773580475034
+  },
+  {
+    "id": "mmrs0tlclwbzgp3j02m",
+    "turnId": "turn_mmrs0pntxcusipns73l",
+    "text": "不然这三年的账我绝对跟你没完😤",
+    "sender": "them",
+    "timestamp": 1773580475862
+  },
+  {
+    "id": "mmrs152ct1en0xh81vh",
+    "text": "好，我给你去买",
+    "sender": "me",
+    "timestamp": 1773580490724,
+    "quote": null
+  },
+  {
+    "id": "mmrs22uqhcxiudy4u6",
+    "turnId": "turn_mmrs22uqejwafuv1ks5",
+    "text": "答应得这么痛快",
+    "sender": "them",
+    "timestamp": 1773580534514,
+    "voiceData": {
+      "status": "盯着屏幕，嘴角忍不住上扬又被硬生生压下",
+      "inner": "算他还识相，这次绝对不能让他再跑了",
+      "favorability": "99%",
+      "trueFeeling": "好想马上见到他",
+      "tokens": null,
+      "apiTaken": null
+    }
+  },
+  {
+    "id": "mmrs23lrc42gmlr69fk",
+    "turnId": "turn_mmrs22uqejwafuv1ks5",
+    "text": "别以为几个蛋糕就能彻底收买我",
+    "sender": "them",
+    "timestamp": 1773580535488
+  },
+  {
+    "id": "mmrs248fx96m98s2zl",
+    "turnId": "turn_mmrs22uqejwafuv1ks5",
+    "text": "我要你亲自送过来",
+    "sender": "them",
+    "timestamp": 1773580536305
+  },
+  {
+    "id": "mmrs24vg9lcs3qaons5",
+    "turnId": "turn_mmrs22uqejwafuv1ks5",
+    "text": "要是敢半路再跑掉...",
+    "sender": "them",
+    "timestamp": 1773580537135
+  },
+  {
+    "id": "mmrs25igubcxw5cdln",
+    "turnId": "turn_mmrs22uqejwafuv1ks5",
+    "text": "顾逸你就死定了听到没有！😠",
+    "sender": "them",
+    "timestamp": 1773580537964
+  },
+  {
+    "id": "mmrs265o5arhkusg50c",
+    "turnId": "turn_mmrs22uqejwafuv1ks5",
+    "text": "还有...路上小心点",
+    "sender": "them",
+    "timestamp": 1773580538801
+  },
+  {
+    "id": "mor6vlqsjct1igzk477",
+    "text": "嗯哼",
+    "sender": "me",
+    "timestamp": 1777898525140,
+    "quote": null
+  },
+  {
+    "id": "mor6w5kitxs2u6wp6pl",
+    "turnId": "turn_mor6w5kifwo75mbelis",
+    "text": "嗯哼是什么意思！",
+    "sender": "them",
+    "timestamp": 1777898550834,
+    "voiceData": {
+      "status": "坐在沙发上，抱着抱枕，脚尖不安地踢着地毯",
+      "inner": "哼，这家伙还是老样子，总让人不放心...不过，他真的会来吗？",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 4790
+    }
+  },
+  {
+    "id": "mor6w67cs65r2kfak9a",
+    "turnId": "turn_mor6w5kifwo75mbelis",
+    "text": "你这是什么态度？",
+    "sender": "them",
+    "timestamp": 1777898551657,
+    "voiceData": {
+      "status": "坐在沙发上，抱着抱枕，脚尖不安地踢着地毯",
+      "inner": "哼，这家伙还是老样子，总让人不放心...不过，他真的会来吗？",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 4790
+    }
+  },
+  {
+    "id": "mor6w6u9z00nj0nbdl",
+    "turnId": "turn_mor6w5kifwo75mbelis",
+    "text": "是听到了还是没听到啊",
+    "sender": "them",
+    "timestamp": 1777898552483,
+    "voiceData": {
+      "status": "坐在沙发上，抱着抱枕，脚尖不安地踢着地毯",
+      "inner": "哼，这家伙还是老样子，总让人不放心...不过，他真的会来吗？",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 4790
+    }
+  },
+  {
+    "id": "mor6w7h4wvwx78tuybo",
+    "turnId": "turn_mor6w5kifwo75mbelis",
+    "text": "真是的...",
+    "sender": "them",
+    "timestamp": 1777898553307,
+    "voiceData": {
+      "status": "坐在沙发上，抱着抱枕，脚尖不安地踢着地毯",
+      "inner": "哼，这家伙还是老样子，总让人不放心...不过，他真的会来吗？",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 4790
+    }
+  },
+  {
+    "id": "mor6w844k5da8j9mr6",
+    "turnId": "turn_mor6w5kifwo75mbelis",
+    "text": "每次都这样",
+    "sender": "them",
+    "timestamp": 1777898554136,
+    "voiceData": {
+      "status": "坐在沙发上，抱着抱枕，脚尖不安地踢着地毯",
+      "inner": "哼，这家伙还是老样子，总让人不放心...不过，他真的会来吗？",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 4790
+    }
+  },
+  {
+    "id": "mor71z5hkj3nrefo0w",
+    "text": "给你买回来了嘛",
+    "sender": "me",
+    "timestamp": 1777898822453,
+    "quote": null
+  },
+  {
+    "id": "mor72mnfvryik0snsip",
+    "turnId": "turn_mor72mnf9ru8csoyy6d",
+    "text": "算你还有点良心",
+    "sender": "them",
+    "timestamp": 1777898852907,
+    "voiceData": {
+      "status": "站在玄关，双手抱在胸前，脚尖不耐烦地点着地",
+      "inner": "算你跑得快…哼，看到蛋糕的份上，就让你先进来吧",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5749
+    }
+  },
+  {
+    "id": "mor72naa97nga2shy2n",
+    "turnId": "turn_mor72mnf9ru8csoyy6d",
+    "text": "这么快就回来了",
+    "sender": "them",
+    "timestamp": 1777898853731,
+    "voiceData": {
+      "status": "站在玄关，双手抱在胸前，脚尖不耐烦地点着地",
+      "inner": "算你跑得快…哼，看到蛋糕的份上，就让你先进来吧",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5749
+    }
+  },
+  {
+    "id": "mor72nx6dfbva63efv",
+    "turnId": "turn_mor72mnf9ru8csoyy6d",
+    "text": "在门口杵着干嘛",
+    "sender": "them",
+    "timestamp": 1777898854556,
+    "voiceData": {
+      "status": "站在玄关，双手抱在胸前，脚尖不耐烦地点着地",
+      "inner": "算你跑得快…哼，看到蛋糕的份上，就让你先进来吧",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5749
+    }
+  },
+  {
+    "id": "mor72ok1shn7c7g487",
+    "turnId": "turn_mor72mnf9ru8csoyy6d",
+    "text": "还不快点进来",
+    "sender": "them",
+    "timestamp": 1777898855380,
+    "voiceData": {
+      "status": "站在玄关，双手抱在胸前，脚尖不耐烦地点着地",
+      "inner": "算你跑得快…哼，看到蛋糕的份上，就让你先进来吧",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5749
+    }
+  },
+  {
+    "id": "mor72p71pytyg2jf35g",
+    "turnId": "turn_mor72mnf9ru8csoyy6d",
+    "text": "蛋糕呢？",
+    "sender": "them",
+    "timestamp": 1777898856209,
+    "voiceData": {
+      "status": "站在玄关，双手抱在胸前，脚尖不耐烦地点着地",
+      "inner": "算你跑得快…哼，看到蛋糕的份上，就让你先进来吧",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5749
+    }
+  },
+  {
+    "id": "mor72ptyjs64si5dqj",
+    "turnId": "turn_mor72mnf9ru8csoyy6d",
+    "text": "拿来我看看",
+    "sender": "them",
+    "timestamp": 1777898857035,
+    "voiceData": {
+      "status": "站在玄关，双手抱在胸前，脚尖不耐烦地点着地",
+      "inner": "算你跑得快…哼，看到蛋糕的份上，就让你先进来吧",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5749
+    }
+  },
+  {
+    "id": "mor73f5bg0k8u5qqeth",
+    "text": "被我吃了",
+    "sender": "me",
+    "timestamp": 1777898889839,
+    "quote": null
+  },
+  {
+    "id": "mor73uqwm265nh9sq5h",
+    "turnId": "turn_mor73uqwe0y44nxckwe",
+    "text": "什么？！",
+    "sender": "them",
+    "timestamp": 1777898910056,
+    "voiceData": {
+      "status": "气得脸颊鼓鼓的，瞪着门口的方向",
+      "inner": "这个混蛋！怎么敢！他一定是骗我的...对吧？他最好是骗我的！不然...不然我就再也不理他了！",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5615
+    }
+  },
+  {
+    "id": "mor73vds9ccqeo6uo08",
+    "turnId": "turn_mor73uqwe0y44nxckwe",
+    "text": "你再说一遍！",
+    "sender": "them",
+    "timestamp": 1777898910881,
+    "voiceData": {
+      "status": "气得脸颊鼓鼓的，瞪着门口的方向",
+      "inner": "这个混蛋！怎么敢！他一定是骗我的...对吧？他最好是骗我的！不然...不然我就再也不理他了！",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5615
+    }
+  },
+  {
+    "id": "mor73w0me2qfkfupp9r",
+    "turnId": "turn_mor73uqwe0y44nxckwe",
+    "text": "你耍我玩呢？",
+    "sender": "them",
+    "timestamp": 1777898911704,
+    "voiceData": {
+      "status": "气得脸颊鼓鼓的，瞪着门口的方向",
+      "inner": "这个混蛋！怎么敢！他一定是骗我的...对吧？他最好是骗我的！不然...不然我就再也不理他了！",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5615
+    }
+  },
+  {
+    "id": "mor73wnnwkvnh326ej",
+    "turnId": "turn_mor73uqwe0y44nxckwe",
+    "type": "image",
+    "isSticker": true,
+    "url": "https://files.catbox.moe/lfj45l.gif",
+    "text": "[表情: 生气]",
+    "sender": "them",
+    "timestamp": 1777898912534,
+    "voiceData": {
+      "status": "气得脸颊鼓鼓的，瞪着门口的方向",
+      "inner": "这个混蛋！怎么敢！他一定是骗我的...对吧？他最好是骗我的！不然...不然我就再也不理他了！",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5615
+    }
+  },
+  {
+    "id": "mor73xaj08xmgxy2l3lg",
+    "turnId": "turn_mor73uqwe0y44nxckwe",
+    "text": "好啊你顾逸",
+    "sender": "them",
+    "timestamp": 1777898913359,
+    "voiceData": {
+      "status": "气得脸颊鼓鼓的，瞪着门口的方向",
+      "inner": "这个混蛋！怎么敢！他一定是骗我的...对吧？他最好是骗我的！不然...不然我就再也不理他了！",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5615
+    }
+  },
+  {
+    "id": "mor73xxho364j0eamv",
+    "turnId": "turn_mor73uqwe0y44nxckwe",
+    "text": "故意的是吧",
+    "sender": "them",
+    "timestamp": 1777898914186,
+    "voiceData": {
+      "status": "气得脸颊鼓鼓的，瞪着门口的方向",
+      "inner": "这个混蛋！怎么敢！他一定是骗我的...对吧？他最好是骗我的！不然...不然我就再也不理他了！",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5615
+    }
+  },
+  {
+    "id": "mor73yklm2nn3mp5ug9",
+    "turnId": "turn_mor73uqwe0y44nxckwe",
+    "text": "那你也别进来了！",
+    "sender": "them",
+    "timestamp": 1777898915019,
+    "voiceData": {
+      "status": "气得脸颊鼓鼓的，瞪着门口的方向",
+      "inner": "这个混蛋！怎么敢！他一定是骗我的...对吧？他最好是骗我的！不然...不然我就再也不理他了！",
+      "favorability": "99%",
+      "trueFeeling": "",
+      "tokens": null,
+      "apiTaken": 5615
+    }
+  },
+  {
+    "id": "mor7455zm7but13vue",
+    "text": "骗你的",
+    "sender": "me",
+    "timestamp": 1777898923559,
+    "quote": null
+  },
+  {
+    "id": "mor748nxu9wq92rqc4p",
+    "text": "在这里呢",
+    "sender": "me",
+    "timestamp": 1777898928093,
+    "quote": null
+  },
+  {
+    "id": "mor74oqxrcz8rukd7m",
+    "turnId": "turn_mor74oqx4dcdzr2cgh9",
+    "text": "哼...",
+    "sender": "them",
+    "timestamp": 1777898948937,
+    "voiceData": {
+      "status": "靠在门框上，视线却一直没离开顾逸手里的蛋糕盒",
+      "inner": "这个混蛋...居然还记得我最喜欢的是哪一款...真是的...让人火大又...没办法真的生气。",
+      "favorability": "100%",
+      "trueFeeling": "他还记得...",
+      "tokens": null,
+      "apiTaken": 5650
+    }
+  }
+]

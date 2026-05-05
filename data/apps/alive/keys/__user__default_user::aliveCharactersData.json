@@ -1,0 +1,23 @@
+[
+  {
+    "id": "char_mmrlg2es9d2pnelsrdu",
+    "name": "拉斐尔",
+    "avatar": "__SYNC_IMAGE_REF__:data/apps/alive/images/__user__default_user/aliveCharactersData_0_avatar.jpg",
+    "places": [],
+    "relations": []
+  },
+  {
+    "id": "char_mmrpf0ipojpjxh7nn8",
+    "name": "夜阑",
+    "avatar": "__SYNC_IMAGE_REF__:data/apps/alive/images/__user__default_user/aliveCharactersData_1_avatar.jpg",
+    "places": [],
+    "relations": []
+  },
+  {
+    "id": "char_mmsv37e0c615z9pyohk",
+    "name": "祁昀",
+    "avatar": "__SYNC_IMAGE_REF__:data/apps/alive/images/__user__default_user/aliveCharactersData_2_avatar.jpg",
+    "places": [],
+    "relations": []
+  }
+]

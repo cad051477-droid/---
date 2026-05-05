@@ -1,0 +1,7 @@
+{
+  "url": "https://gcli.ggchan.dev/",
+  "model": "gemini-2.5-pro",
+  "temp": 0.7,
+  "stream": true,
+  "manualModelEnabled": false
+}

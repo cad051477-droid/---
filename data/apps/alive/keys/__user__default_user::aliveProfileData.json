@@ -1,0 +1,14 @@
+{
+  "name": "清秋",
+  "gender": "",
+  "age": "",
+  "identity": "",
+  "avatar": "",
+  "stats": {
+    "mood": 29,
+    "health": 1,
+    "satiety": 70,
+    "fatigue": 10
+  },
+  "schedule": null
+}

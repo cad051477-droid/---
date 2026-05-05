@@ -1,0 +1,16 @@
+{
+  "包子": {
+    "url": "https://api.5202030.xyz/",
+    "model": "claude-sonnet-4.6",
+    "temp": 0.7,
+    "stream": true,
+    "manualModelEnabled": false
+  },
+  "gg": {
+    "url": "https://gcli.ggchan.dev/",
+    "model": "gemini-3.1-pro-preview",
+    "temp": 0.7,
+    "stream": true,
+    "manualModelEnabled": false
+  }
+}
